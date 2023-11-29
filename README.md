@@ -56,3 +56,10 @@ This repository contains a content-based movie recommendation engine developed u
 - `data/`: Directory to store the dataset file (`tmdb_5000_movies.csv`).
 - `movie_list.pkl`: Pickle file containing movie information.
 - `similarity.pkl`: Pickle file containing similarity scores for movies.
+
+<img width="1433" alt="Screenshot 2023-11-29 at 8 37 15 PM" src="https://github.com/ShubhamAXS19/Movie_Recommedation-Engine/assets/80101565/397b41f8-6b29-4c17-9b3a-e77d9d6c4d15">
+<img width="1440" alt="Screenshot 2023-11-29 at 8 37 25 PM" src="https://github.com/ShubhamAXS19/Movie_Recommedation-Engine/assets/80101565/ceb54fc6-cd9f-4a27-862e-78b46ded3595">
+<img width="1440" alt="Screenshot 2023-11-29 at 8 37 38 PM" src="https://github.com/ShubhamAXS19/Movie_Recommedation-Engine/assets/80101565/b78cae7f-a13b-48a7-b74e-f0ce7094eaa8">
+
+
+
